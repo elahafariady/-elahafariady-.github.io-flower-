@@ -7,6 +7,7 @@ layout: default
 
 
 # COMP110 Resource Effectiveness Analysis
+By: Elaha Fariady
 <img src="static/imgs/logo.png" width="300"/>
 ## Overview
 
