@@ -4,11 +4,10 @@ layout: default
 ---
 
 ---
-layout: default
----
+
 
 # COMP110 Resource Effectiveness Analysis
-
+<img src="static/imgs/logo.png" width="300"/>
 ## Overview
 
 For this project, we analyzed survey data from COMP110 students to understand which course resources are most effective for learning. We focused on resources such as lesson videos, post-lesson questions, programming assignments, quizzes, office hours, and tutoring.
